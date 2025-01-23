@@ -1,0 +1,16 @@
+{
+    "name": "alexandre/php-ldap-gui",
+    "autoload": {
+        "psr-4": {
+            "Alexandre\\PhpLdapGui\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alex"
+        }
+    ],
+    "require": {
+        "adldap2/adldap2": "^4.0"
+    }
+}
